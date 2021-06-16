@@ -1,0 +1,1 @@
+Note: WE created the Relation_Schema_Diagram using the MYSQL Workbench Reverse Engineer Feature.
